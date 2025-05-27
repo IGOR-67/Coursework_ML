@@ -30,10 +30,10 @@
 ## 6. Предсказание: CC50 > медианы
 Для получения подробной информации о решении  Предсказание: CC50 > медианы вы можете ознакомиться с [Kurs6_CC50_exceed_median_value_classification.ipynb](https://github.com/IGOR-67/Coursework_ML/blob/master/Kurs6_CC50_exceed_median_value_classification.ipynb)
 ## 7. Предсказание: SI > медианы
-Для получения подробной информации о решении Предсказание: SI > медианы вы можете ознакомиться с [Kurs7_SI_exceed_median_value_classification.ipynb]
+Для получения подробной информации о решении Предсказание: SI > медианы вы можете ознакомиться с [Kurs7_SI_exceed_median_value_classification.ipynb](https://github.com/IGOR-67/Coursework_ML/blob/master/Kurs7_SI_exceed_median_value_classification.ipynb)
 ## 8. Предсказание: SI > 8
-Для получения подробной информации о решении Предсказание: SI > 8 вы можете ознакомиться с [Kurs8_Classification_SI_value_exceeds_8.ipynb]
+Для получения подробной информации о решении Предсказание: SI > 8 вы можете ознакомиться с [Kurs8_Classification_SI_value_exceeds_8.ipynb](https://github.com/IGOR-67/Coursework_ML/blob/master/Kurs8_Classification_SI_value_exceeds_8.ipynb)
  
 
-https://github.com/IGOR-67/Coursework_ML/blob/master/Kurs1_EDA.ipynb
+
 
