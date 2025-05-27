@@ -20,7 +20,7 @@
 ## 1. Качество проведённого EDA 
 Для получения подробной информации о качестве проведённого Exploratory Data Analysis (EDA) вы можете ознакомиться с [Kurs1_EDA.ipynb](https://github.com/IGOR-67/Coursework_ML/blob/master/Kurs1_EDA.ipynb)
 ## 2. Качество решения задачи регрессии IC50
-Для получения подробной информации о решении задачи регрессии IC50 вы можете ознакомиться с [Kurs2_regression_on_IC50.ipynb]
+Для получения подробной информации о решении задачи регрессии IC50 вы можете ознакомиться с [Kurs2_regression_on_IC50.ipynb](https://github.com/IGOR-67/Coursework_ML/blob/master/Kurs2_regression_on_IC50.ipynb)
 ## 3. Качество решения задачи регрессии CC50
 Для получения подробной информации о решении задачи регрессии СC50 вы можете ознакомиться с [Kurs3_regression_on_СC50.ipynb]
 ## 4. Качество решения задачи регрессии SI
