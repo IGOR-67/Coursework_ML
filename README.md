@@ -18,7 +18,7 @@
 Классификация: превышает ли значение SI медианное значение выборки
 Классификация: превышает ли значение SI значение 8
 ## 1. Качество проведённого EDA 
-Для получения подробной информации о качестве проведённого Exploratory Data Analysis (EDA) вы можете ознакомиться с [Kurs1_EDA.ipynb]
+Для получения подробной информации о качестве проведённого Exploratory Data Analysis (EDA) вы можете ознакомиться с [Kurs1_EDA.ipynb](https://github.com/IGOR-67/Coursework_ML/blob/master/Kurs1_EDA.ipynb)
 ## 2. Качество решения задачи регрессии IC50
 Для получения подробной информации о решении задачи регрессии IC50 вы можете ознакомиться с [Kurs2_regression_on_IC50.ipynb]
 ## 3. Качество решения задачи регрессии CC50
@@ -35,5 +35,5 @@
 Для получения подробной информации о решении Предсказание: SI > 8 вы можете ознакомиться с [Kurs8_Classification_SI_value_exceeds_8.ipynb]
  
 
-
+https://github.com/IGOR-67/Coursework_ML/blob/master/Kurs1_EDA.ipynb
 
