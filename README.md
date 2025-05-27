@@ -26,7 +26,7 @@
 ## 4. Качество решения задачи регрессии SI
 Для получения подробной информации о решении задачи регрессии SI вы можете ознакомиться с [Kurs4_regression_on_SI.ipynb](https://github.com/IGOR-67/Coursework_ML/blob/master/Kurs4_regression_on_SI.ipynb)
 ## 5. Предсказание: IC50 > медианы
-Для получения подробной информации о решении Предсказание: IC50 > медианы вы можете ознакомиться с [Kurs5_IC50_exceed_median_value_classification.ipynb]
+Для получения подробной информации о решении Предсказание: IC50 > медианы вы можете ознакомиться с [Kurs5_IC50_exceed_median_value_classification.ipynb](https://github.com/IGOR-67/Coursework_ML/blob/master/Kurs5_IC50_exceed_median_value_classification.ipynb)
 ## 6. Предсказание: CC50 > медианы
 Для получения подробной информации о решении  Предсказание: CC50 > медианы вы можете ознакомиться с [Kurs6_CC50_exceed_median_value_classification.ipynb]
 ## 7. Предсказание: SI > медианы
