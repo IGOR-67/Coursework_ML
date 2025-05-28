@@ -33,7 +33,6 @@
 Для получения подробной информации о решении Предсказание: SI > медианы вы можете ознакомиться с [Kurs7_SI_exceed_median_value_classification.ipynb](https://github.com/IGOR-67/Coursework_ML/blob/master/Kurs7_SI_exceed_median_value_classification.ipynb)
 ## 8. Предсказание: SI > 8
 Для получения подробной информации о решении Предсказание: SI > 8 вы можете ознакомиться с [Kurs8_Classification_SI_value_exceeds_8.ipynb](https://github.com/IGOR-67/Coursework_ML/blob/master/Kurs8_Classification_SI_value_exceeds_8.ipynb)
- 
-
-
+## Аналитический отчет
+Для получения подробной информации вы можете ознакомиться с [analytical report.docx](https://github.com/IGOR-67/Coursework_ML/blob/master/analytical report.docx)
 
